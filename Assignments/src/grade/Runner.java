@@ -3,8 +3,7 @@ package grade;
 import java.util.Scanner;
 
 /**
- * @author CraftMojo
- *
+ * @author CraftMojo test
  */
 public class Runner {
 	public static Scanner input = new Scanner(System.in);

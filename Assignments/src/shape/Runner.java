@@ -29,5 +29,6 @@ public class Runner {
             System.out.println(b);
         }
 		scan.close();
+		// test
 	}
 }
