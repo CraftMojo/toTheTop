@@ -10,6 +10,11 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
+/**
+ * @author CraftMojo
+ *
+ */
+
 public class Runner {
 	public static void main(String[] args) throws IOException {
 		ArrayList<Double> grades = readFile();

@@ -2,6 +2,10 @@ package grade;
 
 import java.util.Scanner;
 
+/**
+ * @author CraftMojo
+ *
+ */
 public class Runner {
 	public static Scanner input = new Scanner(System.in);
 

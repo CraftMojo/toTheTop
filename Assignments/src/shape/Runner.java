@@ -2,6 +2,10 @@ package shape;
 
 import java.util.Scanner;
 
+/**
+ * @author CraftMojo
+ *
+ */
 public class Runner {
 
 	public static void main(String[] args) {
