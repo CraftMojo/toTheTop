@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /**
- * @author CraftMojo test
+ * @author CraftMojo
  */
 public class Runner {
 	public static Scanner input = new Scanner(System.in);

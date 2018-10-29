@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 /**
- * @author CraftMojo // test
+ * @author CraftMojo
  */
 
 public class Runner {
