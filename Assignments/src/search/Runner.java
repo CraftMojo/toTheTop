@@ -28,17 +28,11 @@ public class Runner {
 		}
 
 		System.out.println("Data sebelum sort:");
-		for (Integer n : nilai) {
-			System.out.print(String.format("%d ", n));
-		}
-		System.out.println();
+		nilai.forEach(System.out::println);
 
 		System.out.println("\nData sesudah sort:");
 		Collections.sort(nilai);
-		for (Integer n : nilai) {
-			System.out.print(String.format("%d ", n));
-		}
-		System.out.println();
+		nilai.forEach(System.out::println);
 
 		// Binary Search
 		System.out.print("\nNilai yang ingin dicari: ");
